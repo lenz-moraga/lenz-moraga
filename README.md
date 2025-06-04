@@ -46,21 +46,28 @@ From the beginning of the year, I've been working with BE, using NodeJS with Nes
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
+---
+
 ### PROJECT CASES I'VE WORKED ON
 
-#### Project Management App — Frontend Developer  
-I contributed as a front-end developer to the maintenance and enhancement of an existing web application built with ReactJS and TypeScript. This application is primarily focused on displaying a list of projects and tracking their progress.
-
-Users interact with the application by submitting orders, completing surveys, and uploading required documentation, allowing efficient project management.
-
-#### Real Estate App — UI Designer / Frontend Developer  
-As a front-end developer, I was responsible for creating UX/UI Flows, Use cases using tools like Miro and Figma, and bringing them to the front end using ReactJs and Typescript. This application served as a product catalog for properties available for sale or rent.
-
-Users could browse properties, view photos, and contact property owners. Plans include implementing a payment method for rental transactions.
-
-#### Bank Application Update Support — Technical Support / Project Coordinator  
-As a Technical Support, I was responsible for creating roadmaps to support and teach the new users how to install, troubleshoot, and use the application.
-
-As a Project Coordinator, I created and planned routes to update existing apps.
+> [!NOTE]
+> #### Project Management App — Frontend Developer
+> I contributed as a front-end developer to the maintenance and enhancement of an existing web application built with ReactJS and TypeScript. This application is primarily focused on displaying a list of projects and tracking their progress.
+>
+> Users interact with the application by submitting orders, completing surveys, and uploading required documentation, allowing efficient project management.
 
 ---
+
+> [!NOTE]
+> ### Real Estate App — UI Designer / Frontend Developer
+> As a front-end developer, I was responsible for creating UX/UI Flows, Use cases using tools like Miro and Figma, and bringing them to the front end using ReactJs and Typescript. This application served as a product catalog for properties available for sale or rent.
+> 
+> Users could browse properties, view photos, and contact property owners. Plans include implementing a payment method for rental transactions.
+
+---
+
+> [!NOTE]
+> #### Bank Application Update Support — Technical Support / Project Coordinator
+> As a Technical Support, I was responsible for creating roadmaps to support and teach the new users how to install, troubleshoot, and use the application.
+>
+> As a Project Coordinator, I created and planned routes to update existing apps.
