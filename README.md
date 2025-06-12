@@ -71,3 +71,19 @@ From the beginning of the year, I've been working with BE, using NodeJS with Nes
 > As a Technical Support, I was responsible for creating roadmaps to support and teach the new users how to install, troubleshoot, and use the application.
 >
 > As a Project Coordinator, I created and planned routes to update existing apps.
+
+---
+
+### CONTRIBUTION ACTIVITY ON MY CORPORATE ACCOUNTS
+
+2025
+![Image](https://github.com/user-attachments/assets/e2703980-3098-4130-890d-9f82b23b7ffe)
+
+2024
+![Image](https://github.com/user-attachments/assets/ac21ee99-a488-4d27-9860-157223d7fede)
+
+2023
+![Image](https://github.com/user-attachments/assets/8582238c-ccef-4a9e-923f-89480d9b5d3a)
+
+2022
+![Image](https://github.com/user-attachments/assets/0fa567c6-183e-4348-b862-60714bd3442c)
