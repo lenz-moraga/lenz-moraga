@@ -21,7 +21,9 @@ Experienced in micro frontend architecture, CI/CD (Jenkins, CircleCI, Harness), 
 This is my personal space for experimenting, learning, and building. Here you'll find a mix of side projects, tech explorations, and code experiments as I deepen my skills in Fullstack Development.
 
 🔧 I’m currently working with ReactJS, TypeScript, Node.js (NestJS), and .NET (C#).
+
 📚 Many of these projects are tied to topics I’m exploring — like micro frontends, CI/CD workflows, RESTful APIs, and UI/UX best practices.
+
 🚀 Some repos are small proof-of-concepts, others are more complete applications built to reinforce what I'm learning or test new ideas.
 
 I'm always open to feedback and collaboration — feel free to explore, fork, or reach out!
