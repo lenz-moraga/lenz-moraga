@@ -13,13 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello There, I'm [Lener Moraga](https://www.linkedin.com/in/lener-moraga/) 👋
+## Hello There, and welcome to My GitHub! I'm [Lener Moraga](https://www.linkedin.com/in/lener-moraga/) 👋
 
-Hi, I'm a Frontend Developer, I have extensive experience in creating and maintaining user-friendly web interfaces using technologies such as HTML5, CSS, and JavaScript. I specialize in ReactJs and TypeScript to build dynamic and responsive web applications that prioritize user experience. My responsibilities include collaborating with cross-functional teams, implementing UI/UX design specifications, and optimizing web performance for a seamless user journey.
+Hi, I'm a Fullstack Developer with strong focus on both frontend and backend development. I build scalable web applications using ReactJS, TypeScript, HTML/CSS, and modern UI/UX practices, and develop robust APIs using .NET (C#) and Node.js (NestJS).
+Experienced in micro frontend architecture, CI/CD (Jenkins, CircleCI, Harness), and agile methodologies. Passionate about clean code, performance, and delivering real value to users.
 
-I am proficient in using design tools like Figma, Photoshop, and Illustrator to create simple graphics and layouts.
+This is my personal space for experimenting, learning, and building. Here you'll find a mix of side projects, tech explorations, and code experiments as I deepen my skills in Fullstack Development.
 
-From the beginning of the year, I've been working with BE, using NodeJS with NestJS, maintaining existing APIs, and creating new endpoints. I'm currently learning BE technologies as NodeJs with NestJS and C# in order to level up my proffesional Career and become a ✨Fullstack developer✨.
+🔧 I’m currently working with ReactJS, TypeScript, Node.js (NestJS), and .NET (C#).
+📚 Many of these projects are tied to topics I’m exploring — like micro frontends, CI/CD workflows, RESTful APIs, and UI/UX best practices.
+🚀 Some repos are small proof-of-concepts, others are more complete applications built to reinforce what I'm learning or test new ideas.
+
+I'm always open to feedback and collaboration — feel free to explore, fork, or reach out!
 
 ---
 
